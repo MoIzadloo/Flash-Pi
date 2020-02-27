@@ -4,7 +4,9 @@ Flash Pi Version 0.1
 ### Description :
 >Flash Pi is a simple tool for overclock raspberry pi cpu & gpu & both written in python 3
 ### Screenshot:
-![](https://github.com/MoIzadloo/SQLiteBrowser/blob/master/Screenshot/Screenshot%20(1).png)
+![](https://github.com/MoIzadloo/Flash-Pi/blob/master/flash-pi-1.png)
+![](https://github.com/MoIzadloo/Flash-Pi/blob/master/flash-pi-2.png)
+![](https://github.com/MoIzadloo/Flash-Pi/blob/master/flash-pi-3.png)
 ### Download & Config & Usage:
 >Download the tool from github\
 `git clone https://github.com/MoIzadloo/Flash-Pi.git`\
