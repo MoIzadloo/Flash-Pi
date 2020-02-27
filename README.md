@@ -2,7 +2,7 @@ Flash Pi Version 0.1
 =============
 >Author : Mostafa Izadloo , Reza Salehi
 ### Description :
->Flash Pi is a simple tool for overclock raspberry pi cpu & gpu & both written in python 3
+>Flash Pi is a simple tool for overclock raspberry pi cpu or gpu or both written in python 3
 ### Screenshot:
 ![](https://github.com/MoIzadloo/Flash-Pi/blob/master/flash-pi-1.png)
 ![](https://github.com/MoIzadloo/Flash-Pi/blob/master/flash-pi-2.png)
